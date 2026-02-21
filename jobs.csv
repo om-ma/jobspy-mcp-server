@@ -1,0 +1,1406 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-cdfa7d5f4364ad59","indeed","https://www.indeed.com/viewjob?jk=cdfa7d5f4364ad59","https://jobs.ashbyhq.com/airwallex/904cf7b0-819b-42f0-b61b-03eccb2dfe4c","Engineering Manager - AI Tools (Security)","Airwallex","San Francisco, CA, US","2026-01-08","fulltime","direct_data","yearly",200000.0,300000.0,"USD",False,"","","","","**About Airwallex**
+Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 200,000 businesses worldwide – including Brex, Rippling, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.
+
+
+Proudly founded in Melbourne, we have a team of over 2,000 of the brightest and most innovative people in tech across 26 offices around the globe. Valued at US$8 billion and backed by world\\-leading investors including T. Rowe Price, Visa, Mastercard, Robinhood Ventures, Sequoia, Salesforce Ventures, DST Global, and Lone Pine Capital, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.
+
+**Attributes We Value**
+
+
+We hire successful builders with founder\\-like energy who want real impact, accelerated learning, and true ownership. You bring strong role\\-related expertise and sharp thinking, and you’re motivated by our mission and operating principles. You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor.
+
+
+You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end\\-to\\-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next.
+
+**What you’ll do**
+
+
+As an Engineering Manager working on internal AI tooling, you will be responsible for helping keep $150b\\+ in payments, 150,000 companies, and our thousands of employees safe.
+
+
+You'll have the opportunity to partner with internal teams to help identify projects that can drive impact \\- like building internal automation tooling, owning our terabyte\\-scale log pipelines, and using AI to streamline how our team operates.
+
+
+We're not tied to specific projects, languages, and technology \\- we rely on smart people diving deep to find the best solutions to hard problems. You'll also be mentoring junior team members and continuing to grow our world\\-class engineering team.
+
+**Responsibilities:**
+
+* Manage and lead a team of engineers, providing technical direction, setting clear goals, and ensuring high\\-quality, timely delivery of AI\\-powered security tooling.
+* Own team execution and delivery, including planning, prioritization, resourcing, and performance management while balancing hands\\-on technical leadership.
+* Lead the development of AI tools and applications, from inception to implementation.
+* Support incident response efforts by building ad\\-hoc tools for threat hunting, remediation and scanners.
+* Build, monitor, and maintain underlying infrastructure, including Kubernetes clusters, serverless workloads, and ETL pipelines.
+* Sit with engineers to identify opportunities for automation and tooling development
+* Partner with product engineering teams to drive security outcomes \\- such as automation for patching, and development of gateways and other services to decrease risk.
+* Mentor and help grow other Software Engineers in the team.
+
+**Who you are**
+
+* You have a passion for solving the complex challenges within a high\\-growth start\\-up.
+* You are self\\-motivated, a self starter, and able to learn new skills and dive deeper into existing skills.
+
+**Minimum qualifications:**
+
+* Prior experience leading or managing software engineering teams, including mentorship, career development, and performance feedback.
+* Proven ability to translate business and security goals into execution plans, aligning roadmap, timelines, and engineering capacity.
+* Bachelor’s degree in Computer Science, Information Security, or a related field.
+* 8\\+ years of experience as a Software Engineer.
+* Experience with production code bases
+* Experience with at least one scripting language (e.g. Python) and one systems programming language (eg. Golang, C/C\\+\\+)
+* Experience with modern cloud infrastructure, including data pipelines, serverless workloads, and Kubernetes
+* Proven experience working autonomously on projects \\- delivering them to a high quality and on time.
+* Excellent communication and interpersonal skills, with the ability to work effectively with both technical and non\\-technical stakeholders.
+* Ability to dive deep to find the best solution to a problem
+* Obsessive curiosity and a willingness to ask questions, gather context, and learn
+
+**Preferred qualifications:**
+
+* Experience working in a high\\-growth tech company.
+* Hands on experience with AI \\- specifically leveraging AI to build applications
+* Experience maintaining Linux operating systems
+
+**Applicant Safety Policy: Fraud and Third\\-Party Recruiters**
+
+*To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @**airwallex.com* *email address. Please apply only through* *careers.airwallex.com* *or our official LinkedIn page.*
+
+*Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.*
+
+**Equal opportunity**
+
+
+Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.","","https://www.indeed.com/cmp/Airwallex-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4132826aea570b48ec20f7833d4353a8","https://www.airwallex.com","Singapore","1,001 to 5,000","Decline to state","","","","","","",""
+"in-00b0326ac5409306","indeed","https://www.indeed.com/viewjob?jk=00b0326ac5409306","https://careers.google.com/jobs/results/78287832480654022-senior-software-engineer/","Senior Software Engineer, Infrastructure, Platforms Infrastructure Engineering","Google","Sunnyvale, CA, US","2026-01-08","fulltime","direct_data","yearly",166000.0,244000.0,"USD",False,"","","","","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **New York, NY, USA; Sunnyvale, CA, USA**.### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 5 years of experience programming in C\\+\\+, Python or Go.
+* 3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+* 3 years of experience developing large\\-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or a related technical field.
+* 5 years of experience with data structures and algorithms.
+* 1 year of experience in a technical leadership role.
+* Experience developing accessible technologies.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+
+
+In this role, you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+
+
+The AI and Infrastructure team is redefining what’s possible. We empower Google customers with breakthrough capabilities and insights by delivering AI and Infrastructure at unparalleled scale, efficiency, reliability and velocity. Our customers include Googlers, Google Cloud customers, and billions of Google users worldwide.
+
+
+We're the driving force behind Google's groundbreaking innovations, empowering the development of our cutting\\-edge AI models, delivering unparalleled computing power to global services, and providing the essential platforms that enable developers to build the future. From software to hardware our teams are shaping the future of world\\-leading hyperscale computing, with key teams working on the development of our TPUs, Vertex AI for Google Cloud, Google Global Networking, Data Center operations, systems research, and much more.  
+
+  
+
+The US base salary range for this full\\-time position is $166,000\\-$244,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.  
+
+  
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Write and test product or system development code.
+* Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+* Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-0f374d4489e10e62","indeed","https://www.indeed.com/viewjob?jk=0f374d4489e10e62","https://careers.google.com/jobs/results/136532261938832070-software-engineer/","Software Engineer, Platforms and Devices, Chrome","Google","Mountain View, CA, US","2026-01-08","fulltime","direct_data","yearly",166000.0,244000.0,"USD",False,"","","","","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Seattle, WA, USA; Mountain View, CA, USA**.### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 5 years of experience programming in C\\+\\+, Java, Python or Kotlin.
+* 1 year of experience with Machine Learning infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or related technical field.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* Experience developing accessible technologies.
+* Experience in code and system health, diagnosis and resolution, and software test engineering.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+
+With 4\\.2B\\+ users, Chrome drives the web and browser ecosystem forward by showcasing a steady stream of new features and platform capabilities. Chrome browser's strategy is to become more purpose built, to be smarter, personalized, and proactive. That's where our team comes in. The Chrome Intelligence team’s goal is to build both generative Artificial Intelligence (AI) and non\\-generative AI Machine Learning features and capabilities to deliver on Chrome’s strategy.
+
+
+The Platforms and Devices team encompasses Google's various computing software platforms across environments (desktop, mobile, applications), as well as our first party devices and services that combine the best of Google AI, software, and hardware. Teams across this area research, design, and develop new technologies to make our user's interaction with computing faster and more seamless, building innovative experiences for our users around the world.  
+
+The US base salary range for this full\\-time position is $166,000\\-$244,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.  
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.**Responsibilities**
+--------------------
+
+* Design, develop, test, deploy, maintain, and improve software.
+* Manage individual project priorities, deadlines, and deliverables.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-653e7c8b4d9ab335","indeed","https://www.indeed.com/viewjob?jk=653e7c8b4d9ab335","https://careers.google.com/jobs/results/80948513180918470-software-engineer/","Software Engineer, Global Network Core Development","Google","Sunnyvale, CA, US","2026-01-08","fulltime","direct_data","yearly",141000.0,202000.0,"USD",False,"","","","","### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
+* Experience coding in one or more of the following languages: C\\+\\+, Java or Go.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or related technical fields.
+* 2 years of experience with data structures and algorithms.
+* Experience in networking technologies/concepts such as Software Defined Networking (SDN).
+* Understanding of Internet routing technologies and router/switch telemetry.
+* Ability to debug complex distributed software systems.
+
+**About the job**
+-----------------
+
+
+Google Cloud's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google Cloud's needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. You will anticipate our customer needs and be empowered to act like an owner, take action and innovate. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+  
+
+  
+
+In this role, with your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\\-grade solutions that leverage Google’s cutting\\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.  
+
+The US base salary range for this full\\-time position is $141,000\\-$202,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.  
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+**Responsibilities**
+--------------------
+
+* Data analysis from production data to find gaps/error patterns/opportunities for existing system.
+* Prioritize work and ensure that incremental progress is made even if the problems at hand are difficult to solve in a short period of time.
+* Help team members and partner teams understand the broader context, and solve the right problems at the right time.
+* Design, develop, and test features for high\\-availability, large\\-scale Software\\-Defined Networking (SDN) and Wide Area Network (WAN) infrastructure.
+* Debug and root\\-cause complex issues within a highly integrated global network ecosystem, focusing on traffic engineering and admission control.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-137d437eb9d1e39d","indeed","https://www.indeed.com/viewjob?jk=137d437eb9d1e39d","https://careers.google.com/jobs/results/134604680616387270-software-engineer/","Software Engineer, Threat Infrastructure and Detection, AI Security","Google","Sunnyvale, CA, US","2026-01-08","fulltime","direct_data","yearly",141000.0,202000.0,"USD",False,"","","","","### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience with software development or 1 year of experience with an advanced degree in an industry setting.
+* 2 years of experience with developing large\\-scale infrastructure, distributed systems or networks, or experience with compute technologies, storage or hardware architecture.
+* Experience in one or more of the following: back\\-end, build infrastructure, cloud infrastructure, cloud security, cyber security, cyber threat intelligence.
+* Experience in one or more of these programming languages as a back\\-end engineer: Java, Go.
+* Experience in one or more of these programming languages as an ML engineer: Java, Go, Python.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or related technical fields.
+* 3 years of experience as a Software Engineer, demonstrating expertise in developing, deploying, and maintaining high\\-quality, production\\-grade code.
+* Experience designing, building, and operating large\\-scale distributed systems/real\\-time data processing pipelines.
+* Experience with ML and AI security.
+* Understanding of common security threats, vulnerabilities, and attack vectors (e.g., OWASP Top 10, MITRE ATT\\&CK framework).
+* Passion for cybersecurity, particularly threat detection, security monitoring, or incident response.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+
+
+The mission of the Threat Infrastructure and Detection team is to safeguard the Gemini enterprise and agent engine through a dual approach by building, maintaining, and optimizing the systems required for effective security monitoring, data analysis, and simulated threat deployment, and by identifying, investigating, and actively hunting for existing security threats, while proactively generating new threat models to continuously improve the efficacy of our security controls and response capabilities.
+
+
+In this role, you will focus on designing, developing, and maintaining key components of the Event Threat Detection (ETD) platform. Your work will directly impact our ability to protect a growing number of Google Cloud Platform (GCP) services, especially those used for AI workloads, contributing to a fast\\-growing security product.
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\\-grade solutions that leverage Google’s cutting\\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+
+The US base salary range for this full\\-time position is $141,000\\-$202,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.**Responsibilities**
+--------------------
+
+* Design and optimize scalable data pipelines for security monitoring and ensuring exceptional service reliability.
+* Develop, test, and deploy modules for automated threat generation and simulation to identify gaps in existing security controls.
+* Implement advanced, security\\-focused detection logic to combat new and evolving attack vectors targeting our core products.
+* Maintain system health, participate in on\\-call rotations, and rapidly resolve production issues with a deep security mindset.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-5033ae896bc9d167","indeed","https://www.indeed.com/viewjob?jk=5033ae896bc9d167","https://careers.google.com/jobs/results/134860866825659078-senior-software-engineer/","Senior Software Engineer, ChromeOS, Android Input, Desktop","Google","San Jose, CA, US","2026-01-08","fulltime","direct_data","yearly",166000.0,244000.0,"USD",False,"","","","","### **Minimum qualifications:**
+
+* Bachelor's degree or equivalent practical experience.
+* 5 years of experience working with embedded operating systems.
+* 3 years of experience with software development in one or more programming languages.
+
+  
+
+### **Preferred qualifications:**
+
+* 5 years of experience testing and launching software products.
+* 3 years of experience with data structures and algorithms.
+* 3 years of experience with software design and architecture.
+* Experience developing accessible technologies.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+
+
+This team ensures the correct behavior of both external and internal input hardware devices, ensuring that OS events are correctly processed and delivered to the application/sysUI layer.  
+
+  
+
+In this role, you will focus on shipping a great input experience on our devices. You will develop frameworks to make fixing issues easy and catching regressions automatic. You will have built\\-in and peripheral input devices that are easy to use and work well on user feedback, and you will use them to improve our product. You will also be responsible for building platform user experiences for human interface devices, working closely with the peripheral partner ecosystem.
+ChromeOS delivers quality computing at scale to provide universal and unfettered access to information, entertainment, and tools. Our mission is to empower anyone to create and access information freely through fast, secure, simple, and intelligent computing.  
+
+  
+
+The US base salary range for this full\\-time position is $166,000\\-$244,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.  
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.**Responsibilities**
+--------------------
+
+* Work with cross\\-functional teams and engineering managers to develop OS features that enable user experience with next generation touch technologies.
+* Write firmware, drivers, and interfacing code in C, C\\+\\+, Objective\\-C, or Python for touch controllers and styluses.
+* Create and execute plans to bring\\-up, debug, and validate designs to achieve functional and performance goals.
+* Design basic software GUI to demonstrate features.
+* Present results to both internal and external engineering teams.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-a284db22b755eae2","indeed","https://www.indeed.com/viewjob?jk=a284db22b755eae2","https://careers.google.com/jobs/results/92650208487187142-software-engineer-iii/","Software Engineer III, Google Cloud Business Platforms","Google","Sunnyvale, CA, US","2026-01-08","fulltime","direct_data","yearly",141000.0,202000.0,"USD",False,"","","","","Note: By applying to this position you will have an opportunity to share your preferred working location from the following: **Pittsburgh, PA, USA; Kirkland, WA, USA; Seattle, WA, USA; Sunnyvale, CA, USA**.### **Minimum qualifications:**
+
+* Bachelor’s degree or equivalent practical experience.
+* 2 years of experience programming in C\\+\\+, Java or Python.
+
+  
+
+### **Preferred qualifications:**
+
+* Master's degree or PhD in Computer Science or related technical fields.
+* 2 years of experience with data structures or algorithms in either an academic or industry setting.
+* 2 years of experience with performance, large scale systems data analysis, visualization tools, or debugging.
+* Experience developing accessible technologies.
+* Proficiency in code and system health, diagnosis and resolution, and software test engineering.
+
+**About the job**
+-----------------
+
+
+Google's software engineers develop the next\\-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large\\-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast\\-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full\\-stack as we continue to push technology forward.
+
+
+
+With your technical expertise you will manage project priorities, deadlines, and deliverables. You will design, develop, test, deploy, maintain, and enhance software solutions.
+
+
+
+Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise\\-grade solutions that leverage Google’s cutting\\-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+
+The US base salary range for this full\\-time position is $141,000\\-$202,000 \\+ bonus \\+ equity \\+ benefits. Our salary ranges are determined by role, level, and location. Within the range, individual pay is determined by work location and additional factors, including job\\-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+
+
+Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google.
+
+**Responsibilities**
+--------------------
+
+* Write product or system development code.
+* Participate in, or lead design reviews with peers and stakeholders to decide amongst available technologies.
+* Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency).
+* Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
+* Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form.","","https://www.indeed.com/cmp/Google","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/d778456838f54580d43f7dd78b3b0d9c","http://goo.gle/3ygdkgv","Mountain View, CA","10,000+","more than $10B (USD)","Our mission is to organize the world’s information and make it universally accessible and useful. ","","","","","",""
+"in-4ee98adb92c9587c","indeed","https://www.indeed.com/viewjob?jk=4ee98adb92c9587c","https://jobs.ashbyhq.com/airwallex/904cf7b0-819b-42f0-b61b-03eccb2dfe4c?utm_source=GVJrAklxyn","Engineering Manager - AI Tools (Security)","Airwallex","San Francisco, CA, US","2026-01-08","fulltime","","","","","",False,"","","","","**About Airwallex**
+-------------------
+
+
+Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 200,000 businesses worldwide – including Brex, Rippling, Navan, Qantas, SHEIN and many more – with fully integrated solutions to manage everything from business accounts, payments, spend management and treasury, to embedded finance at a global scale.
+
+
+Proudly founded in Melbourne, we have a team of over 2,000 of the brightest and most innovative people in tech across 26 offices around the globe. Valued at US$8 billion and backed by world\\-leading investors including T. Rowe Price, Visa, Mastercard, Robinhood Ventures, Sequoia, Salesforce Ventures, DST Global, and Lone Pine Capital, Airwallex is leading the charge in building the global payments and financial platform of the future. If you’re ready to do the most ambitious work of your career, join us.
+
+**Attributes We Value**
+-----------------------
+
+
+We hire successful builders with founder\\-like energy who want real impact, accelerated learning, and true ownership. You bring strong role\\-related expertise and sharp thinking, and you’re motivated by our mission and operating principles. You move fast with good judgment, dig deep with curiosity, and make decisions from first principles, balancing speed and rigor.
+
+
+You're humble and collaborative; turn zero‑to‑one ideas into real products, and you “get stuff done” end\\-to\\-end. You use AI to work smarter and solve problems faster. Here, you’ll tackle complex, high‑visibility problems with exceptional teammates and grow your career as we build the future of global banking. If that sounds like you, let’s build what’s next.
+
+**What you’ll do**
+------------------
+
+
+As an Engineering Manager working on internal AI tooling, you will be responsible for helping keep $150b\\+ in payments, 150,000 companies, and our thousands of employees safe.
+
+
+You'll have the opportunity to partner with internal teams to help identify projects that can drive impact \\- like building internal automation tooling, owning our terabyte\\-scale log pipelines, and using AI to streamline how our team operates.
+
+
+We're not tied to specific projects, languages, and technology \\- we rely on smart people diving deep to find the best solutions to hard problems. You'll also be mentoring junior team members and continuing to grow our world\\-class engineering team.
+
+**Responsibilities:**
+
+* Manage and lead a team of engineers, providing technical direction, setting clear goals, and ensuring high\\-quality, timely delivery of AI\\-powered security tooling.
+* Own team execution and delivery, including planning, prioritization, resourcing, and performance management while balancing hands\\-on technical leadership.
+* Lead the development of AI tools and applications, from inception to implementation.
+* Support incident response efforts by building ad\\-hoc tools for threat hunting, remediation and scanners.
+* Build, monitor, and maintain underlying infrastructure, including Kubernetes clusters, serverless workloads, and ETL pipelines.
+* Sit with engineers to identify opportunities for automation and tooling development
+* Partner with product engineering teams to drive security outcomes \\- such as automation for patching, and development of gateways and other services to decrease risk.
+* Mentor and help grow other Software Engineers in the team.
+
+**Who you are**
+---------------
+
+* You have a passion for solving the complex challenges within a high\\-growth start\\-up.
+* You are self\\-motivated, a self starter, and able to learn new skills and dive deeper into existing skills.
+
+**Minimum qualifications:**
+
+* Prior experience leading or managing software engineering teams, including mentorship, career development, and performance feedback.
+* Proven ability to translate business and security goals into execution plans, aligning roadmap, timelines, and engineering capacity.
+* Bachelor’s degree in Computer Science, Information Security, or a related field.
+* 8\\+ years of experience as a Software Engineer.
+* Experience with production code bases
+* Experience with at least one scripting language (e.g. Python) and one systems programming language (eg. Golang, C/C\\+\\+)
+* Experience with modern cloud infrastructure, including data pipelines, serverless workloads, and Kubernetes
+* Proven experience working autonomously on projects \\- delivering them to a high quality and on time.
+* Excellent communication and interpersonal skills, with the ability to work effectively with both technical and non\\-technical stakeholders.
+* Ability to dive deep to find the best solution to a problem
+* Obsessive curiosity and a willingness to ask questions, gather context, and learn
+
+**Preferred qualifications:**
+
+* Experience working in a high\\-growth tech company.
+* Hands on experience with AI \\- specifically leveraging AI to build applications
+* Experience maintaining Linux operating systems
+
+**Applicant Safety Policy: Fraud and Third\\-Party Recruiters**
+--------------------------------------------------------------
+
+*To protect you from recruitment scams, please be aware that Airwallex will not ask for bank details, sensitive ID numbers (i.e. passport), or any form of payment during the application or interview process. All official communication will come from an @**airwallex.com* *email address. Please apply only through* *careers.airwallex.com* *or our official LinkedIn page.*
+
+*Airwallex does not accept unsolicited resumes from search firms/recruiters. Airwallex will not pay any fees to search firms/recruiters if a candidate is submitted by a search firm/recruiter unless an agreement has been entered into with respect to specific open position(s). Search firms/recruiters submitting resumes to Airwallex on an unsolicited basis shall be deemed to accept this condition, regardless of any other provision to the contrary.*
+
+**Equal opportunity**
+---------------------
+
+
+Airwallex is proud to be an equal opportunity employer. We value diversity and anyone seeking employment at Airwallex is considered based on merit, qualifications, competence and talent. We don’t regard color, religion, race, national origin, sexual orientation, ancestry, citizenship, sex, marital or family status, disability, gender, or any other legally protected status when making our hiring decisions. If you have a disability or special need that requires accommodation, please let us know.","","https://www.indeed.com/cmp/Airwallex-1","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/4132826aea570b48ec20f7833d4353a8","https://www.airwallex.com","Singapore","1,001 to 5,000","Decline to state","","","","","","",""
+"in-3782822634c80a03","indeed","https://www.indeed.com/viewjob?jk=3782822634c80a03","https://jobs.lever.co/revi/b4622fcd-c4b6-40ce-8b96-5e26cd40ce17?lever-source=Indeed","Full Stack Engineer","REVI","San Francisco, CA, US","2026-01-08","fulltime","","","","","",False,"","","","","The Revi Mission
+  
+Brick\\-and\\-mortar retail isn’t dead—but it is rapidly transforming. As technology accelerates, the digital and physical worlds are collapsing into a single purchasing layer. At Revi, we believe the real Web3 is this hybrid world—where every physical purchase has a digital identity, an ongoing relationship, and an opportunity for engagement.
+  
+From self\\-ordering kiosks to loyalty tools and customer data insights, Revi empowers restaurants and retailers to engage their customers in entirely new ways. With a fresh round of Series A funding from top Silicon Valley investors, we’re scaling fast and building toward a multi\\-billion\\-dollar opportunity.
+  
+  
+
+It’s an excellent time to join because Revi is at a pivotal inflection point. We’ve proven product\\-market fit, secured major partnerships, and are expanding rapidly across the country. We’re building AI\\-native infrastructure to support our next wave of growth—and you’ll have the rare opportunity to help architect the systems, shape the product, and scale the platform that powers the future of in\\-store commerce.
+  
+  
+
+The Revi Role ‍ ‍
+  
+You’ll work cross\\-functionally with Product, Design, and Support to bring key features to life across Revi’s kiosks, dashboards, mobile apps, and internal tools. We’re building AI\\-native experiences across our ecosystem—from intelligent automation to dynamic interfaces—so you’ll also help integrate modern LLM\\-based tools and services into user\\-facing and backend workflows.
+  
+  
+
+What You’ll Do ‍ ️
+  
+Develop APIs to connect Revi apps, partner systems, and third\\-party services
+  
+Architect and build Revi’s core product infrastructure (backend and frontend)
+  
+**Build and ship features across platforms:** kiosks, web dashboards, mobile apps, and internal tools
+  
+Collaborate cross\\-functionally with Product, Design, and Support to iterate based on user feedback
+  
+Integrate AI tools and services into product experiences (e.g., dynamic menu configuration, chatbot support, internal automation)
+  
+Help define and evolve our tech stack, deployment pipelines, and security practices
+  
+Contribute to building the engineering culture, including code quality, testing, and peer review
+  
+  
+
+What We’re Looking For
+  
+3\\+ years of professional experience in full stack development
+  
+Strong experience building and maintaining APIs (REST or GraphQL)
+  
+Experience with modern JavaScript frameworks (e.g., React, Vue) and Python\\-based backend frameworks
+  
+Working knowledge of mobile or kiosk\\-based deployment is a plus
+  
+Prior experience embedding AI APIs or building internal tools powered by LLMs is a major bonus
+  
+Experience with cloud infrastructure (AWS preferred), CI/CD pipelines, and version control
+  
+**Product\\-first mindset:** you care about the user, the experience, and the performance
+  
+Strong ownership mentality—you build it, test it, and improve it
+  
+Comfortable navigating a fast\\-paced, high\\-growth startup environment
+  
+  
+
+**Bonus Points For:**  
+
+Experience with AI\\-native tools (e.g., OpenAI, LangChain, vector databases)
+  
+iOS development or kiosk interface experience
+  
+Familiarity with hardware integrations or field\\-deployed systems
+  
+Contributions to open source or portfolio examples of 0 1 work
+  
+  
+
+Our Values
+  
+❤️ Heart – A team that is passionate about what they do, with a heart of giving back
+  
+Impact – Being a versatile team player with an innovative mind and a firm backbone to make an impact on everything they touch
+  
+Excellence – A team committed to excellence in all we do, with integrity and supreme service
+  
+  
+
+Perks and Benefits of Joining the Revi Team
+  
+Equity package
+  
+Competitive salary \\+ bonus
+  
+Professional development support
+  
+Excellent and comprehensive health plans (Medical, dental, vision, etc.)
+  
+Flexible Vacation Policy \\+ Paid holidays
+  
+Organized volunteer events to give back to our community
+  
+Off\\-sites, events, and happy hours
+  
+401(k)","","https://www.indeed.com/cmp/Revi","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b518ab0486824c5d1678325a6257900c","","","","","","","","","","",""
+"in-7676611daafe5029","indeed","https://www.indeed.com/viewjob?jk=7676611daafe5029","https://careers.indiumsoft.com/jobs/Careers/668572000049670692/Full-Stack-Developer?source=CareerSite","Full Stack Developer","Indium software","San Ramon, CA, US","2026-01-08","","","","","","",False,"","","","","### **Job Information**
+
+
+Date Opened
+
+
+**01/08/2026**Job Type
+
+
+**Permanent**RSD NO
+
+
+**12166**Industry
+
+
+**IT Services**City
+
+
+**San Ramon**State/Province
+
+
+**California**Country
+
+
+**United States**Zip/Postal Code
+
+
+**94582**### **Job Description**
+
+
+**Full Stack Developer – Python \\& ReactJS**
+--------------------------------------------
+
+### **Must Have**
+
+* **15\\+ years of relevant experience** with strong expertise in **Python and ReactJS**
+* Proficiency in **Python**, **RESTful Web Services**, **NoSQL databases**, and **In\\-Memory Databases**
+* Hands\\-on, in\\-depth experience with **Python application development**, including:
+
+
+	+ **Django REST Framework**
+	+ **Flask**
+* Strong backend development experience, including:
+
+
+	+ Designing and building **message intake and processing pipelines**
+	+ Developing **REST APIs** for front\\-end consumption
+	+ **Data manipulation** (JSON, XML, flat files)
+	+ Integration with **external services**
+* Experience with:
+
+
+	+ **Pandas**
+	+ **Pytest**
+	+ **Exception handling**
+	+ **Multithreading / Asyncio**
+	+ **gRPC and Python microservices**
+* Strong front\\-end development expertise, including:
+
+
+	+ Developing UI components using **ReactJS**
+	+ Experience with **Redux** and **Webpack**
+	+ In\\-depth knowledge of **TypeScript**, **JavaScript**, and core **React concepts**
+	+ Ability to design and build **modern, high\\-performance UI components**
+* Active participation in **architecture, design, and product discussions**
+* Experience working in **Agile/Scrum** environments
+
+### **Nice to Have**
+
+* Familiarity with **unit testing frameworks** (e.g., JUnit)
+* Strong knowledge of **CI/CD pipelines** using **Jenkins** or **Bamboo**
+* Experience with **Cloud application services**, **Load Balancers**, and **Application Gateways**
+* Hands\\-on experience with **cloud platforms**, preferably **Microsoft Azure**
+* Knowledge of **Azure Active Directory** and **Azure Notification Hub**
+
+  
+
+
+  
+
+At Indium, diversity, equity, and inclusion (DEI) are core values. We promote DEI through a dedicated council, expert sessions, and tailored training, fostering an inclusive workplace. Our initiatives, like the WE@IN women empowerment program and DEI calendar, create a culture of respect and belonging. Recognized with the Human Capital Award, we're committed to an environment where everyone thrives. Join us in building a diverse, innovative workplace. **Indium do not solicit or accept any form of fees or payment at any stage of the hiring process.**","","https://www.indeed.com/cmp/Indium-Software","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/699495aa605baf179b690744820a7a8e","","","","","","","","","","",""
+"in-9a1b1a9d3b19cd74","indeed","https://www.indeed.com/viewjob?jk=9a1b1a9d3b19cd74","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200637647-3337_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200637647-3337%2Fsenior-machine-learning-engineer-siri-attention-invocation%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D5167c131-ec53-11f0-8092-8b78e7927d59%26rx_job%3D200637647-3337_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260108T103802Z%26rx_vp%3Dcpc%26team%3DSFTWR","Senior Machine Learning Engineer, Siri Attention & Invocation","Apple","Cupertino, CA, US","2026-01-08","","","","","","",False,"","","","","Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something \\- you’ll add something.  
+
+  
+
+Join the Siri Attention \\& Invocation team and play a part in the next revolution of Siri invocation. The Siri Attention \\& Invocation team is looking for a Senior Machine Learning Engineer passionate about developing and advancing natural and mindful Siri invocation experiences on Apple’s innovative devices, making Siri an exceptional conversational partner and an attentive listener, focusing on innovative multimodal machine learning solutions that enhance user experiences across Apple's entire device ecosystem. You'll collaborate with software engineers, machine learning engineers, and scientists across technical areas spanning the full range of Siri's capabilities. At Apple, individual imaginations come together to create something wonderful and share it with the world, changing lives for the better.  
+
+  
+
+**Description**  
+
+  
+
+You will be part of a team whose focus will be on applied machine learning, on building and deploying models that constantly advance the state\\-of\\-the\\-art. But that is only half the story! In Siri Attention \\& Invocation, we own our user journeys end\\-to\\-end. We measure the impact of our deployed models not just on pre\\-ship evaluation sets, but also post\\-ship on production traffic. We optimize error rates on existing data. We also define new metrics that take into account the user experience we want to deliver and apply them to the data that best represents the next feature we ship. And we are sometimes constrained by the limits of on\\-device computation \\- that is where your ability to innovate will be most impactful.  
+
+  
+
+You will collaborate with many dynamic, cross\\-functional teams consisting of software engineers and machine learning engineers/scientists. The ideal candidate will excel in both academic rigor and engineering efficacy, staying up\\-to\\-date with the latest research advancements as well as delivering reliable and robust models to all devices for all users around the world. If you are passionate about building outstanding products and using the full spectrum of your skills to extend the core technology that lets Siri understand, personalize, engage, and interact in new and exciting ways, then we cannot wait to hear from you.  
+
+  
+
+As a member of the team you will be responsible for researching and developing innovative ML solutions for challenging problems that will meaningfully affect how users interact with Siri on Apple products. You will be looking at the user experience we want to deliver, define the optimization metrics and propose solutions to achieve the goal. You will bring these innovations to life by working collaboratively with partner teams to take them all the way to production. You are self\\-motivated, excellent problem solver with strong execution. You are good at building relationships and work well with change and ambiguity. You have strong programming skills with experience prototyping and converting ideas into reality.  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+Master’s or Ph.D. degree in Computer Science, Electrical Engineering or related field; outstanding candidates with Bachelor’s degrees and multiple years of significant engineering/product experience will also be considered  
+
+  
+
+Industry experience in product development and deployment and understanding of full software product life cycle  
+
+  
+
+Passion for high\\-quality product and excellent user experience  
+
+  
+
+Experience with voice assistant technologies or conversational AI models and systems  
+
+  
+
+Expertise in one or more of computer vision, signal processing, natural language processing, or related fields  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+5\\+ years of experience with scalable machine learning technologies  
+
+  
+
+Strong background in machine learning and deep learning  
+
+  
+
+Proficiency in deep learning / machine learning frameworks (e.g., PyTorch, TensorFlow, JAX) and programming languages including but not limited to C/C\\+\\+/Python, with strong software engineering fundamentals and an interest in optimizing, automating, and scaling end\\-to\\-end systems (e.g., PySpark, Airflow)  
+
+  
+
+Strong attention to detail, along with the analytical skills and the willingness to dive into data to explain anomalies and conduct error/deviation analyses  
+
+  
+
+Excellent written and verbal communication skills with demonstrated ability to collaborate effectively across multidisciplinary teams and stakeholders  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-7594598a88cafb7a","indeed","https://www.indeed.com/viewjob?jk=7594598a88cafb7a","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200638759-0836_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200638759-0836%2Fproduction-metal-frameworks-manager%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D53979941-ec53-11f0-8092-3d5607dced26%26rx_job%3D200638759-0836_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260108T103802Z%26rx_vp%3Dcpc%26team%3DSFTWR","Production Metal Frameworks Manager","Apple","Cupertino, CA, US","2026-01-08","","","","","","",False,"","","","","Apple’s Graphics, Games, and Machine Learning team provides the compute and graphics software foundation across all of our innovative products including iPhone, iPad, Apple TV, Mac, Vision Pro, and Apple Watch.  
+
+  
+
+The Production Metal Frameworks team is responsible for Metal API design and development across new OS and product releases. We are looking for a motivated, technical manager who can bring a broad understanding of GPU technologies to help define and deliver the next generation of Metal.  
+
+  
+
+**Description**  
+
+  
+
+As the manager of the Production Metal Frameworks team, you will own the design and implementation of the Metal API to unlock the full potential of Apple Silicon for developers. You’ll collaborate cross\\-functionally with software teams both inside and outside of Apple to bring incredible new GPU experiences to life across Apple’s platforms."",""responsibilities"":""Lead your team to design, develop, and deliver high\\-quality additions to the Metal API  
+
+  
+
+Monitor industry trends to identify gaps (or opportunities for differentiation) in Metal.  
+
+  
+
+Partner with cross\\-functional teams to improve the graphics stack and meet the ever\\-evolving needs of Apple’s operating systems and external applications.  
+
+  
+
+Support and grow the Production Metal Framework team as you execute in a highly dynamic environment  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+Multiple years of experience directly managing engineering teams  
+
+  
+
+Wide knowledge of graphics/compute API’s including their differences and how they have evolved  
+
+  
+
+Detailed knowledge of a GPU architecture including their capabilities and performance characteristics  
+
+  
+
+Familiarity machine learning fundamentals and ML frameworks as well as how they are accelerated by modern HW  
+
+  
+
+Familiarity with Apple framework and API design patterns as well as Swift programming  
+
+  
+
+Top notch communication skills with the ability to influence up, down, and cross\\-functionally  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+Hands\\-on experience with GPU APIs (Metal, DirectX, Vulkan, CUDA, etc)  
+
+  
+
+Solid foundation in systems engineering including OS fundamentals and performance analysis  
+
+  
+
+Prior experience as a manager or tech lead driving large engineering projects through definition, planning, and execution phases  
+
+  
+
+Demonstrated software design, debugging, and performance analysis abilities  
+
+  
+
+Strong programming skills with C/C\\+\\+/Objective\\-C  
+
+  
+
+BS/MS/PhD or equivalent in Computer Science or related field  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-08708218ce1a3fe7","indeed","https://www.indeed.com/viewjob?jk=08708218ce1a3fe7","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200637647-0836_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200637647-0836%2Fsenior-machine-learning-engineer-siri-attention-invocation%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4bdc3ac7-ec53-11f0-8092-29018569bbd6%26rx_job%3D200637647-0836_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260108T103802Z%26rx_vp%3Dcpc%26team%3DSFTWR","Senior Machine Learning Engineer, Siri Attention & Invocation","Apple","Cupertino, CA, US","2026-01-08","","","","","","",False,"","","","","Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something \\- you’ll add something.  
+
+  
+
+Join the Siri Attention \\& Invocation team and play a part in the next revolution of Siri invocation. The Siri Attention \\& Invocation team is looking for a Senior Machine Learning Engineer passionate about developing and advancing natural and mindful Siri invocation experiences on Apple’s innovative devices, making Siri an exceptional conversational partner and an attentive listener, focusing on innovative multimodal machine learning solutions that enhance user experiences across Apple's entire device ecosystem. You'll collaborate with software engineers, machine learning engineers, and scientists across technical areas spanning the full range of Siri's capabilities. At Apple, individual imaginations come together to create something wonderful and share it with the world, changing lives for the better.  
+
+  
+
+**Description**  
+
+  
+
+You will be part of a team whose focus will be on applied machine learning, on building and deploying models that constantly advance the state\\-of\\-the\\-art. But that is only half the story! In Siri Attention \\& Invocation, we own our user journeys end\\-to\\-end. We measure the impact of our deployed models not just on pre\\-ship evaluation sets, but also post\\-ship on production traffic. We optimize error rates on existing data. We also define new metrics that take into account the user experience we want to deliver and apply them to the data that best represents the next feature we ship. And we are sometimes constrained by the limits of on\\-device computation \\- that is where your ability to innovate will be most impactful.  
+
+  
+
+You will collaborate with many dynamic, cross\\-functional teams consisting of software engineers and machine learning engineers/scientists. The ideal candidate will excel in both academic rigor and engineering efficacy, staying up\\-to\\-date with the latest research advancements as well as delivering reliable and robust models to all devices for all users around the world. If you are passionate about building outstanding products and using the full spectrum of your skills to extend the core technology that lets Siri understand, personalize, engage, and interact in new and exciting ways, then we cannot wait to hear from you.  
+
+  
+
+As a member of the team you will be responsible for researching and developing innovative ML solutions for challenging problems that will meaningfully affect how users interact with Siri on Apple products. You will be looking at the user experience we want to deliver, define the optimization metrics and propose solutions to achieve the goal. You will bring these innovations to life by working collaboratively with partner teams to take them all the way to production. You are self\\-motivated, excellent problem solver with strong execution. You are good at building relationships and work well with change and ambiguity. You have strong programming skills with experience prototyping and converting ideas into reality.  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+Master’s or Ph.D. degree in Computer Science, Electrical Engineering or related field; outstanding candidates with Bachelor’s degrees and multiple years of significant engineering/product experience will also be considered  
+
+  
+
+Industry experience in product development and deployment and understanding of full software product life cycle  
+
+  
+
+Passion for high\\-quality product and excellent user experience  
+
+  
+
+Experience with voice assistant technologies or conversational AI models and systems  
+
+  
+
+Expertise in one or more of computer vision, signal processing, natural language processing, or related fields  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+5\\+ years of experience with scalable machine learning technologies  
+
+  
+
+Strong background in machine learning and deep learning  
+
+  
+
+Proficiency in deep learning / machine learning frameworks (e.g., PyTorch, TensorFlow, JAX) and programming languages including but not limited to C/C\\+\\+/Python, with strong software engineering fundamentals and an interest in optimizing, automating, and scaling end\\-to\\-end systems (e.g., PySpark, Airflow)  
+
+  
+
+Strong attention to detail, along with the analytical skills and the willingness to dive into data to explain anomalies and conduct error/deviation analyses  
+
+  
+
+Excellent written and verbal communication skills with demonstrated ability to collaborate effectively across multidisciplinary teams and stakeholders  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-92fa122a1d7bd313","indeed","https://www.indeed.com/viewjob?jk=92fa122a1d7bd313","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200634981-0836_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200634981-0836%2Fui-web-engineer-icloud%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D4ca72baf-ec53-11f0-8092-b1349e8c180b%26rx_job%3D200634981-0836_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260108T103802Z%26rx_vp%3Dcpc%26team%3DSFTWR","UI Web Engineer- iCloud","Apple","Cupertino, CA, US","2026-01-08","","","","","","",False,"","","","","SUMMARY  
+
+  
+
+There are jobs and then there are opportunities! This may be the one you are looking for!  
+
+  
+
+The iCloud Web team is looking for a passionate and skilled engineer to help us build the next generation of iCloud.com. If you're one of the millions who use iCloud.com, you already know the impact of our work. We're a small, agile team responsible for creating beautiful, intuitive, and high\\-performance web applications that support users around the globe.  
+
+  
+
+In this role, you'll contribute directly to developing and maintaining features on iCloud.com and related web properties. Your focus will be iCloud Drive and Homepage applications, which are vital to the success of iCloud.com. You'll collaborate closely with multi\\-functional teams to ensure detailed integration and deliver exceptional user experiences. If you thrive on solving complex problems, have a passion for web development, and want to make a significant impact at scale, we want to hear from you.  
+
+  
+
+**Description**  
+
+  
+
+WHAT YOU'LL DO  
+
+  
+
+Develop and support new and existing features on iCloud.com and related web properties.  
+
+  
+
+Collaborate with Design, QA, and other teams to deliver high\\-quality, impactful features.  
+
+  
+
+Write clean, efficient, and well\\-documented code.  
+
+  
+
+Contribute to a culture of innovation and continuous improvement.  
+
+  
+
+Rapidly learn and adapt to new technologies and challenges.  
+
+  
+
+Take ownership and pride in the products you build.  
+
+  
+
+WHO YOU ARE  
+
+  
+
+A highly motivated and driven individual with a passion for web development.  
+
+  
+
+A strong problem\\-solver with a keen eye for detail.  
+
+  
+
+A self\\-starter who takes ownership of tasks and drives them from beginning to end, clearly communicating the status of the feature or project.  
+
+  
+
+A collaborative team player with excellent communication skills.  
+
+  
+
+Someone who is dedicated to learning and sharing new ideas.  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+Experience with React, including hooks, context, and modern React patterns.  
+
+  
+
+Knowledge of web security best practices and cryptographic concepts.  
+
+  
+
+Experience designing and developing RESTful APIs and web services.  
+
+  
+
+Familiarity with iOS or hybrid mobile development.  
+
+  
+
+Experience delivering web applications with a high standard of accessibility.  
+
+  
+
+Proficiency in real\\-time and advanced web technologies (WebSockets, WebRTC, WebGL, etc.).  
+
+  
+
+Familiar with integrating applications with OS services via XPC.  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+3\\+ years of experience building pixel\\-perfect, robust, and customer\\-focused software.  
+
+  
+
+Strong proficiency in modern JavaScript/TypeScript frameworks (React, Svelte, Angular, VueJS, etc.).  
+
+  
+
+Shown experience developing high\\-performance production applications.  
+
+  
+
+Experience collaborating across different teams and functions, with a particular focus on Design \\& QA, to deliver impactful features/products.  
+
+  
+
+Experience integrating with asynchronous APIs and web services (JSON, etc.).  
+
+  
+
+Solid understanding of fundamental computer science algorithms and concepts.  
+
+  
+
+Excellent verbal and written communication skills.  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-ab96c4f41ca19829","indeed","https://www.indeed.com/viewjob?jk=ab96c4f41ca19829","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200639841-0836_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200639841-0836%2Fsenior-ios-software-engineer%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D570f5a63-ec53-11f0-8092-55b246a0b244%26rx_job%3D200639841-0836_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260108T103802Z%26rx_vp%3Dcpc%26team%3DSFTWR","Senior iOS Software Engineer","Apple","Cupertino, CA, US","2026-01-08","","","","","","",False,"","","","","The Wallet Apps \\& Frameworks team is the place to be if you're passionate about working on incredible technology that is used by millions of people every day. Will you help us design the next generation of revolutionary Apple products? As part of Apple's team, you will help build the coolest next generation products in the world. If you're determined, curious, motivated, and you want to make an impact, we'd love to hear from you.  
+
+  
+
+The Wallet Apps \\& Frameworks team is looking for hardworking software developers to join our growing team! Wallet allows you to collect your boarding passes, event tickets, coupons, and more, all in one place. It’s also the home for Apple Pay, the easiest and most convenient way to pay in stores, apps, and on the web. Join us and work on an exciting roadmap of features that change the lives of people around the world.  
+
+  
+
+**Description**  
+
+  
+
+As an engineer on our team, your responsibilities will range from high\\-level user interfaces, to writing background processing and networking code, to developing frameworks used by other teams at Apple and third party developers. We collaborate closely with the other iOS engineering teams, human interface designers, diverse groups across Apple, and our partners at other companies. We work on challenging projects and complex problems. We're successful when we deliver novel solutions that surprise and delight our users. You will also deliver the best possible application performance including fast launch times and smooth scrolling. Our goals are simple but the task is large; build the most amazing products in the world that our customers will love.  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+OS programming experience  
+
+  
+
+Swift, Objective\\-C and/or C\\+\\+ experience  
+
+  
+
+Core Animation experience  
+
+  
+
+Familiarity with NFC and related technologies  
+
+  
+
+Understanding of security, digital signatures, and PKI  
+
+  
+
+Performance analysis including Instruments  
+
+  
+
+BS or MS in Computer Science, related technical field or equivalent experience  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+Significant experience as senior technical leader developing feature rich platform native mobile or desktop applications  
+
+  
+
+8\\+ years of experience building software solutions (frameworks, UI) for iOS or macOS  
+
+  
+
+Excellent communication and collaborative skills  
+
+  
+
+Passion for product quality and attention to detail  
+
+  
+
+Excellent understanding of optimization and performance issues across software layers  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-32fbafe1b8f0ac95","indeed","https://www.indeed.com/viewjob?jk=32fbafe1b8f0ac95","https://jsv3.recruitics.com/redirect?rx_cid=3427&rx_jobId=200639751-0836_rxr-660&rx_url=https%3A%2F%2Fjobs.apple.com%2Fen-us%2Fdetails%2F200639751-0836%2Fui-performance-and-power-senior-engineer%3Fboard_id%3DJB001%26rx_campaign%3Dindeed0%26rx_ch%3Djobp4p%26rx_group%3D122365%26rx_id%3D55927ef7-ec53-11f0-8092-2d0b3f725c46%26rx_job%3D200639751-0836_rxr-660%26rx_medium%3Dcpc%26rx_r%3Dnone%26rx_source%3Dindeed%26rx_ts%3D20260108T103802Z%26rx_vp%3Dcpc%26team%3DSFTWR","UI Performance and Power - Senior Engineer","Apple","Cupertino, CA, US","2026-01-08","","","","","","",False,"","","","","Apple's Compositing, Color, and Display Software organization provides the graphics software foundation for all of Apple's innovative products, including iPhone, iPad, Apple TV, Mac and Apple Watch. Our goal is to enable developers and HI designers to create exceptional visual experiences by efficiently utilizing hardware acceleration and color technologies through compositing and display. The technologies we develop are central to enabling enhanced experiences across our platforms, including acceleration for Liquid Glass UI material and presenting HDR content with the highest quality.  
+
+  
+
+If you are passionate about delivering smooth animations, exceptional visual quality, and great battery life to millions of users worldwide, we want to hear from you. If you're excited about maximizing the latest capabilities of our Apple SoCs and Graphics APIs to enable stunning visual effects, this role is for you.  
+
+  
+
+**Description**  
+
+  
+
+Senior Engineer on the UI Performance and Power team responsible for analyzing and optimizing graphics compositing performance across Apple's product lineup. In this role, the candidate will drive performance improvements that directly impact user experience, develop tools for performance analysis, and collaborate with cross\\-functional teams to deliver a smooth, glitch\\-free, responsive, and power\\-efficient UI across all Apple devices."",""responsibilities"":""Analyze and optimize performance of UI rendering and compositing systems across iPhone, iPad, Apple Watch, Apple TV, and Mac platforms  
+
+  
+
+Develop tools and automation for performance analysis, profiling, and regression detection  
+
+  
+
+Debug complex performance issues across multi\\-layered graphics and compositing systems  
+
+  
+
+Partner with UI/Media Framework teams, HI designers, and app developers to optimize UI experiences  
+
+  
+
+Collaborate with Metal graphics framework and OS teams to leverage platform capabilities  
+
+  
+
+Influence power and performance management policies balancing responsiveness with battery life  
+
+  
+
+Provide data\\-driven insights to inform technical decisions and future roadmaps  
+
+  
+
+**Preferred Qualifications**  
+
+  
+
+Experience with Metal or modern graphics APIs (DirectX, Vulkan)  
+
+  
+
+Experience with Mac or iOS application development using Swift or Objective\\-C  
+
+  
+
+Knowledge of power management and battery\\-life analysis techniques  
+
+  
+
+Experience with memory footprint analysis and optimizations  
+
+  
+
+Experience developing performance analysis tools and automation frameworks  
+
+  
+
+Experience with automated performance testing and regression analysis systems  
+
+  
+
+**Minimum Qualifications**  
+
+  
+
+5\\+ years of experience in software development, including software release and integration processes  
+
+  
+
+Strong experience with performance analysis, optimization, and profiling techniques  
+
+  
+
+Hands\\-on experience with real\\-time rendering and computer graphics  
+
+  
+
+Strong foundational understanding of Operating Systems, Computer Architecture, and CPU/GPU programming  
+
+  
+
+Strong C/C\\+\\+ programming and systems\\-level development  
+
+  
+
+Proven debugging skills for complex, multi\\-layered systems  
+
+  
+
+Bachelor's degree in Computer Science or related field, or equivalent experience  
+
+  
+
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We seek to promote equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant .","","https://www.indeed.com/cmp/Apple","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c39b87a9a4eaa4df878c716840f84d","http://www.apple.com","Cupertino, CA","10,000+","more than $10B (USD)","This is where you can do the best work of your life.","","","","","",""
+"in-bbf10c1c40524066","indeed","https://www.indeed.com/viewjob?jk=bbf10c1c40524066","https://www.tesla.com/careers/search/job/259436?source=Indeed","Sr. Software Engineer, Distributed Systems, Autobidder Platform","Tesla","Palo Alto, CA, US","2026-01-08","fulltime","direct_data","yearly",140000.0,252000.0,"USD",False,"","","","","**What to Expect**
+In this role, you will develop and maintain distributed, highly available, low\\-latency services that power the real\\-time Autobidder platform. This platform provides automated data ingestion, forecasting, optimization, market bidding, monitoring, and real\\-time energy dispatch for a growing fleet of large industrial battery sites powered by Tesla Megapacks, as well as Tesla Virtual Power Plants (VPPs). You will play a key role in scaling our infrastructure to support hundreds of gigawatt\\-hours globally, ensuring performance, resilience, and fault tolerance at scale. In addition to working on the real\\-time platform, you will help building out our offline data platform for model training and simulations.
+
+
+Our team is comprised of engineers who are passionate about distributed systems, scaling, and functional programming, working primarily with Scala, Akka, Kubernetes, and Python. We collaborate closely with algorithm engineers and market operations to rapidly iterate and improve the platform. This role offers the opportunity to make a direct impact in the sustainable energy space while tackling complex engineering challenges.
+
+ **What You'll Do*** Design, develop, maintain, and operate highly available distributed software systems
+* Design and develop offline tooling and simulation platforms
+* Develop systems and tooling that enable market operations at various levels of automation
+* Collaborate with algorithms engineers and trading analysts to deliver Autobidder solutions in new markets
+* Collaborate with algorithm engineers to design solutions around new algorithmic trading strategies
+* Contribute to a culture of operational and engineering excellence
+* Learn fast and have a bias for taking action
+  
+
+**What You'll Bring*** A passion for sustainable energy
+* Proven ability to define and develop products
+* Proven ability to develop and operate resilient systems, embedded and/or cloud
+* Excellent knowledge of any modern programming language (Scala, Golang, C\\+\\+, Python, Rust, etc.)
+* Comfortable in a Linux environment
+* Proven ability to work across the stack in a fast\\-paced environment
+* Proven ability to collaborate and design software solutions with multiple stakeholders
+* Degree in Computer Science, Engineering, or equivalent experience
+* Bonus: familiarity with building ETL pipelines, model training workflows, and productionizing models for low latency operations
+  
+
+**Compensation and Benefits**
+Benefits
+Along with competitive pay, as a full\\-time Tesla employee, you are eligible for the following benefits at day 1 of hire:
+
+
+* Medical plans \\> plan options with $0 payroll deduction
+* Family\\-building, fertility, adoption and surrogacy benefits
+* Dental (including orthodontic coverage) and vision plans, both have options with a $0 paycheck contribution
+* Company Paid (Health Savings Accounts) HSA Contribution when enrolled in the High\\-Deductible medical plan with HSA
+* Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+* 401(k) with employer match, Employee Stock Purchase Plans, and other financial benefits
+* Company paid Basic Life, AD\\&D
+* Short\\-term and long\\-term disability insurance (90 day waiting period)
+* Employee Assistance Program
+* Sick and Vacation time (Flex time for salary positions, Accrued hours for Hourly positions), and Paid Holidays
+* Back\\-up childcare and parenting support resources
+* Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft \\& legal services, and pet insurance
+* Weight Loss and Tobacco Cessation Programs
+* Tesla Babies program
+* Commuter benefits
+* Employee discounts and perks program
+Expected Compensation
+$140,000 \\- $252,000/annual salary \\+ cash and stock awards \\+ benefits
+Pay offered may vary depending on multiple individualized factors, including market location, job\\-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+
+  
+
+Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.  
+
+  
+
+Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.","Industrial Manufacturing","https://www.indeed.com/cmp/Tesla","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5e42be6c7dd264b60310b59afb8a3c48","https://www.tesla.com","1 Tesla Road Austin, TX 78725","10,000+","$5B to $10B (USD)","Tesla is accelerating the world’s transition to sustainable energy.","","","","","",""
+"in-ca42532486b6c0b8","indeed","https://www.indeed.com/viewjob?jk=ca42532486b6c0b8","https://app.trinethire.com/companies/294644-betterworks-systems-inc/jobs/115653-sr-software-engineer-data-ai-platform?source=indeed","Sr. Software Engineer, Data & AI Platform","","Menlo Park, CA, US","2026-01-05","fulltime","","","","","",True,"","","","","**About Betterworks**
+
+
+Betterworks is HR software to align, develop, and activate your workforce for business growth. Organizations are able to replace outdated, ineffective, universally loathed annual review processes with powerful Continuous Performance Management programs that help managers be better at the conversations, coaching, and development necessary to inspire and motivate the entire workforce to achieve an organization's top priorities today and be ready for tomorrow's challenges.
+
+**This is a fully remote position.**
+
+
+Join our Data \\& AI Platform team as a Sr. Software Engineer and play a key role in shaping the future of our AI platform.
+
+
+As a Sr. Software Engineer, Data \\& AI Platform at Betterworks, you'll have a significant impact, collaborating closely with design, engineering, and product teams to build and scale a world\\-class Data and Generative AI platform. We're looking for someone who possesses deep expertise in platform engineering, a passion for crafting robust and scalable data and AI infrastructure, and the ability to contribute to a high\\-performing team. **What You Will Do*** Design, develop, and enhance core features of our data and AI platform, focusing on robust, scalable, and resilient cloud distributed services and architecture.
+* Champion best practices in platform engineering, including CI/CD, testing, and observability for data and AI\\-specific workloads. Experience with GitHub Actions is a plus.
+* Proactively identify and troubleshoot performance bottlenecks and infrastructure challenges within the AI platform, ensuring optimal application performance and reliability.
+* Contribute to the evolution of our platform architecture, exploring and evaluating new technologies and approaches in Data pipelines, self\\-hosting, and self\\-managing Generative AI, LLMOps, and scalable distributed systems.
+* Possess deep experience with Observability tools for logging, tracing, monitoring, alertings and dashboards like New Relic, Prometheus, and Grafana.
+* Leverage deep expertise in containerization and orchestration technologies, specifically Kubernetes and Docker, to manage and scale the AI infrastructure.
+* Collaborate closely with product managers, data scientists, and engineering stakeholders to translate Generative AI and platform requirements into detailed technical specifications.
+* Mentor and guide junior engineers, fostering a collaborative and supportive team environment focused on platform excellence.
+* Stay up\\-to\\-date with emerging technologies and trends in Data \\& AI platform development and Generative AI, sharing your knowledge with the team.
+* Knowledge of advanced Gen AI concepts including , embedding, Vector DBs, Retrieval\\-Augmented Generation (RAG), Fine\\-tuning, Inference optimization, evaluation, guardrails, Model Context Protocol (MCP) clients/servers and Agentic AI is a significant plus.
+
+**What You Bring*** Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+* 5\\-8 years of professional experience in software development, with a strong focus on backend or platform engineering.
+* Deep expertise in Python (must have) and other modern languages Typescript or Go, and experience building complex, scalable microservice\\-based or event\\-driven backend systems.
+* Proven hands\\-on experience with AWS services is essential, especially for large\\-scale, high\\-performance workloads.
+* Strong understanding of backend architecture patterns and best practices for building scalable and maintainable applications (Microservices, Integrations, Observability).
+* Experience or strong interest in Generative AI, Operations (MLOps), and developing components like RAG, Inference services, and Evaluation pipelines.
+* Familiarity with event\\-driven architecture (EDA), message queues and asynchronous processing (Kafka, RabbitMQ).
+* Experience with backend frameworks and technologies: FastAPI, NestJS, Postgres etc.
+* Proficiency in writing unit, integration, and end\\-to\\-end tests for platform applications.
+* Excellent problem\\-solving and debugging skills for complex distributed systems.
+* Strong communication and collaboration skills, with an ability to lead technical discussions and projects.
+* Experience using AI\\-powered development tools (GitHub Copilot, MCP servers, AI IDEs) to enhance productivity and code quality is a plus.
+* Self\\-motivation to explore the new AI technologies from experimentation to production at scale.
+
+**What We All Do**
+
+
+All employees are required to participate in information security awareness and training programs.
+
+
+All employees are responsible for handling data in accordance with data classification and handling guidelines. Employees should be aware of the sensitivity of the data they interact with and follow appropriate security measures.
+
+
+All employees have a responsibility for reporting information security incidents in accordance with information security policies and procedures.
+
+
+All employees share the responsibility of being aware of information security risks and adhering to information security policies and procedures.
+
+**What Makes Betterworks Unique**
+
+
+At Betterworks, we prioritize our people. In that spirit, we’ve put together a great benefits program to support our employees’ health and wellness that includes the following:
+
+
+» Leadership: CEO Doug Dennerline is truly a mission\\-driven leader. He has been a sales leader for over 25 years and has a direct impact on the work people do every day.
+
+
+» Funding: $129 million, Serious B with top\\-tier investors, including Kleiners Perkins, Emergence Capital, and 8VC.
+
+
+» Board of Directors: Since the beginning of Betterworks, our board includes industry icons such as John Doerr (who introduced OKRs to Google), Bruce Felt (Founder of Renaissance Software and a trusted advisor to numerous private and public companies), Bing Gordon (Renowned Technology Venture Capitalist with experience on boards like Amazon, Duolingo and Zynga) and Jason Green (Founder of Emergence Capital and Greenbridge Foundation).
+
+
+» Perks: 100% paid Medical/Vision/Dental for employees, Flexible time off, Parental Paid Leave policy, monthly internet stipend, flex days, and more.
+
+
+» Product: Selected by Lighthouse Research \\& Advisory and UNLEASH America, Betterworks has officially been named a 2025 HR Tech Award winner for Best Comprehensive Talent Management Solution. Also, Betterworks wins Newsweek's AI Impact Award for Best Outcomes in HR, 2025\\.
+
+
+» Mission Driven: Our mission is to provide the expertise and technology that companies need to inspire, develop, and activate their workforce to meet today’s goals and be ready for tomorrow’s challenges.
+
+
+We are an equal\\-opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We are committed to an inclusive and diverse Betterworks. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global BetterWorks Community. We welcome people of different backgrounds, experiences, abilities, and perspectives, and are an equal\\-opportunity employer.","","","","","","","","","","","","","",""
+"in-46aa782e49577dcb","indeed","https://www.indeed.com/viewjob?jk=46aa782e49577dcb","https://apply.careers.microsoft.com/careers/job/1970393556643605?utm_source=indeed&domain=microsoft.com","Senior Audio Engineer","Microsoft","Sunnyvale, CA, US","2025-12-17","fulltime","direct_data","yearly",119800.0,258000.0,"USD",False,"","","","","**Overview**  
+
+Microsoft Copilot is transforming the modern workplace, with voice technology playing a crucial role in creating experiences that are intuitive, trustworthy, and engaging. The M365 Core Design team is currently hiring a **Senior Audio Engineer** to join our creative team in building voices and audio experiences for Microsoft 365 Copilot.
+
+
+About M365 Core Design Studio
+
+
+The M365 Core Design Studio is a global, multidisciplinary team at Microsoft dedicated to bringing humanity to AI experiences. We design intelligent, human\\-centered solutions that seamlessly integrate into people’s lives and transform how they find, ask, and do across Microsoft 365\\.
+
+
+Our studio combines technical depth with creative excellence, blending expertise in UX, motion, voice, storytelling, and systems architecture. We work on some of Microsoft’s most impactful experiences, including Copilot, Business Chat, Windows companions, People experiences, and Search—all with a focus on responsible AI and inclusive design.
+
+
+Why join the M365 Core Design Studio?
+
+* Shape the Future of AI: Work on cutting\\-edge AI experiences that redefine productivity for millions.
+* Global Impact: Collaborate with diverse teams worldwide.
+* Human\\-Centered Innovation: Make AI more intuitive, inclusive, and trustworthy.
+* Growth \\& Learning: Access world\\-class resources and mentorship.
+* Culture of Creativity: Join a team that values experimentation, storytelling, and bold ideas.
+
+
+In this role, you will work closely with colleagues across design, engineering, research, and branding to deliver large\\-scale multimodal experiences, helping define the future of voice in artificial intelligence.
+
+
+Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.
+
+ **Responsibilities**  
+
+* Develop refined components and user experiences.
+* Transform design concepts into functional prototypes and code, ensuring ongoing iteration for optimal results.
+* Provide constructive feedback and recommend innovative, effective solutions.
+* Inform stakeholders when technological limitations necessitate adjustments in design or engineering.
+* Adhere to best practices and offer thorough code review feedback to colleagues.
+* Collaborate closely with designers and product managers to develop prototypes that effectively communicate experiential goals beyond static compositions.
+  
+
+**Qualifications** **Required Qualifications:**
+
+* Master's Degree in Computer Science, Software Engineering, Graphic Design, Product Design, Visual Design, Human Computer Interaction, or related field AND 3\\+ years experience working in product or service design and/or shipping production code
+	+ OR Bachelor's Degree in Computer Science, Software Engineering, Graphic Design, Product Design, Visual Design, Human Computer Interaction, or related field AND 4\\+ years experience working in product or service design and/or shipping production code
+	+ OR equivalent experience.
+
+**Preferred Qualifications:**
+
+* Industry experience with audio software (e.g., Sound Forge, ProTools, Reaper, Audition, Izotope RX).
+* Experience with AI and data\\-driven design practices, especially developing synthetic voices using LLM technologies.
+* Experience in creating/modifying software tools for design and development.
+* Familiarity with programming at a high/mid\\-level (XML, Json, Wwise, Max, Python, JavaScript, etc.)
+* A proactive mindset – able to work autonomously with minimal supervision but love collaboration and sharing ideas and discoveries.
+* Solid interest and understanding in regards to enabling User Research through prototyping.
+* Solid understanding of production requirements and the willingness to steer work to minimize negative impact
+* Experience working with a multi\\-disciplinary team of designers and developers
+* A solid interest in design, technology, and trends, with an eye toward the future
+* Knowledge of Microsoft Azure services or AI/ML is a bonus, but not required
+
+
+\\#joinx3  
+
+  
+
+  
+
+UX Engineering IC4 \\- The typical base pay range for this role across the U.S. is USD $119,800 \\- $234,700 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $158,400 \\- $258,000 per year.
+
+
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:  
+
+https://careers.microsoft.com/us/en/us\\-corporate\\-pay
+
+  
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+  
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process**.**","Internet And Software","https://www.indeed.com/cmp/Microsoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/88813b3f866a5b58c9685073e3b87e05","http://www.microsoft.com/","One Microsoft Way Redmond, Washington 98052-6399","10,000+","more than $10B (USD)","Our mission is to empower every person and every organization on the planet to achieve more.","","","","","",""
+"in-e4738ce1efe8e490","indeed","https://www.indeed.com/viewjob?jk=e4738ce1efe8e490","https://apply.careers.microsoft.com/careers/job/1970393556619889?utm_source=indeed&domain=microsoft.com","Software Engineer II","Microsoft","Santa Clara, CA, US","2025-11-03","fulltime","direct_data","yearly",100600.0,215400.0,"USD",False,"","","","","**Overview**  
+
+Microsoft Silicon, Cloud Hardware, and Infrastructure Engineering (SCHIE) is the team behind Microsoft’s expanding Cloud Infrastructure and responsible for powering Microsoft’s “Intelligent Cloud” mission. SCHIE delivers the core infrastructure and foundational technologies for Microsoft's over 200 online businesses including Bing, MSN, Office 365, Xbox Live, Teams, OneDrive, and the Microsoft Azure platform globally with our server and data center infrastructure, security and compliance, operations, globalization, and manageability solutions. Our focus is on smart growth, high efficiency, and delivering a trusted experience to customers and partners worldwide and we are looking for passionate, high\\-energy engineers to help achieve that mission. The Data Processing Unit (DPU) team, within the Azure Hardware Systems \\& Infrastructure group, brings together state\\-of\\-the\\-art software and hardware expertise to create a highly programmable and high\\-performance chip with the capability to efficiently handle large data volumes. Thanks to its integrated design, this solution empowers teams to operate with increased agility and deliver significantly superior performance compared to CPU\\-based alternatives. As a Software Engineer II in the DPU Integration and Test team, you will be involved in the testing of the control and data plane software that runs on the DPU’s custom\\-built silicon in a variety of new platforms targeted at storage and networking use\\-cases. This is an opportunity to build and test innovative products that will be deployed at planet scale. Microsoft’s mission is to empower every person and every organization on the planet to achieve more. As employees we come together with a growth mindset, innovate to empower others, and collaborate to realize our shared goals. Each day we build on our values of respect, integrity, and accountability to create a culture of inclusion where everyone can thrive at work and beyond.  
+
+  
+
+**Responsibilities**  
+
+\\- Write test applications in C that will execute on the DPU runtime software and enable testing of various networking protocols and core DPU accelerators/features. \\- Write automated tests in Python to drive end user workflows against networking/storage servers. \\- Be the champion of quality, find product defects before customers do and participate in cross\\-functional debugs and troubleshooting sessions. \\- Assist in maintaining automated regression suites, running tests, and triaging failures.  
+
+  
+
+**Qualifications** **Required Qualifications:**
+
+* Bachelor's Degree in Computer Science or related technical field AND 2\\+ years technical engineering experience with coding in languages including, but not limited to, C, C\\+\\+, C\\#, Java, JavaScript, or Python
+	+ OR equivalent experience
+
+**Other Requirements:**
+
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+
+**Preferred Qualifications:**
+
+* Understanding of and hands on experience with networking (TCP/IP, RoceV2, routing/switching), Software Defined Networking, and server platform firmware (BMC, BIOS etc) testing.
+* 1\\+ years experience testing and/or writing embedded software for NICs and/or DPUs/IPUs.
+
+  
+
+  
+
+  
+
+Software Engineering IC3 \\- The typical base pay range for this role across the U.S. is USD $100,600 \\- $199,000 per year. There is a different range applicable to specific work locations, within the San Francisco Bay area and New York City metropolitan area, and the base pay range for this role in those locations is USD $131,400 \\- $215,400 per year.
+
+
+Certain roles may be eligible for benefits and other compensation. Find additional benefits and pay information here:  
+
+https://careers.microsoft.com/us/en/us\\-corporate\\-pay
+
+  
+
+This position will be open for a minimum of 5 days, with applications accepted on an ongoing basis until the position is filled.
+
+  
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, citizenship, color, family or medical care leave, gender identity or expression, genetic information, immigration status, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran or military status, race, ethnicity, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable local laws, regulations and ordinances. If you need assistance with religious accommodations and/or a reasonable accommodation due to a disability during the application process**.**","Internet And Software","https://www.indeed.com/cmp/Microsoft","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/88813b3f866a5b58c9685073e3b87e05","http://www.microsoft.com/","One Microsoft Way Redmond, Washington 98052-6399","10,000+","more than $10B (USD)","Our mission is to empower every person and every organization on the planet to achieve more.","","","","","",""
+"li-4344081079","linkedin","https://www.linkedin.com/jobs/view/4344081079","","Software Engineer I","Twitch","San Francisco, CA","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/twitch-tv","","","","","","","","","","","",""
+"li-4195259082","linkedin","https://www.linkedin.com/jobs/view/4195259082","","Software Engineer, Fullstack","Glean","","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/gleanwork","","","","","","","","","","","",""
+"li-4324449161","linkedin","https://www.linkedin.com/jobs/view/4324449161","","Software Engineer, Payments","Discord","","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/discord","","","","","","","","","","","",""
+"li-4358129188","linkedin","https://www.linkedin.com/jobs/view/4358129188","","Software Engineer, Backend","Anara","San Francisco, CA","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/anaralabs","","","","","","","","","","","",""
+"li-4344067505","linkedin","https://www.linkedin.com/jobs/view/4344067505","","Software Engineer","OpenAI","San Francisco, CA","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/openai","","","","","","","","","","","",""
+"li-4330558984","linkedin","https://www.linkedin.com/jobs/view/4330558984","","Software Engineer, AI - New Graduates","Spot AI","San Francisco, CA","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/spot-ai","","","","","","","","","","","",""
+"li-4330850827","linkedin","https://www.linkedin.com/jobs/view/4330850827","","AI Engineer (All Levels)","Fieldguide","San Francisco, CA","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/fieldguide-inc","","","","","","","","","","","",""
+"li-4343351750","linkedin","https://www.linkedin.com/jobs/view/4343351750","","Software Engineer - Frontend","Nextdoor","San Francisco, CA","2026-01-07","","","","","","",False,"","","","","","","https://www.linkedin.com/company/nextdoor-com","","","","","","","","","","","",""
+"li-4330575656","linkedin","https://www.linkedin.com/jobs/view/4330575656","","Software Engineer (Backend)","Artisan","San Francisco, CA","2026-01-06","","","","","","",False,"","","","","","","https://www.linkedin.com/company/artisanai","","","","","","","","","","","",""
+"li-4330415751","linkedin","https://www.linkedin.com/jobs/view/4330415751","","Backend Software Engineer","Artisan","San Francisco, CA","2026-01-06","","","","","","",False,"","","","","","","https://www.linkedin.com/company/artisanai","","","","","","","","","","","",""
+"li-4318584506","linkedin","https://www.linkedin.com/jobs/view/4318584506","","Software Engineer I / II","Giga","San Francisco, CA","2026-01-06","","","","","","",False,"","","","","","","https://www.linkedin.com/company/gigaml","","","","","","","","","","","",""
+"li-4358322354","linkedin","https://www.linkedin.com/jobs/view/4358322354","","Software Engineer 1","Intuit","Mountain View, CA","2026-01-06","","","","","","",False,"","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","","","","",""
+"li-4330361169","linkedin","https://www.linkedin.com/jobs/view/4330361169","","Software Development Engineer","Adobe","San Jose, CA","2026-01-05","","","","","","",False,"","","","","","","https://www.linkedin.com/company/adobe","","","","","","","","","","","",""
+"li-4294691515","linkedin","https://www.linkedin.com/jobs/view/4294691515","","Software Engineer, New Grad","Stripe","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/stripe","","","","","","","","","","","",""
+"li-4344498083","linkedin","https://www.linkedin.com/jobs/view/4344498083","","Web Software Engineer","Wing","Palo Alto, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/wing","","","","","","","","","","","",""
+"li-4294685788","linkedin","https://www.linkedin.com/jobs/view/4294685788","","Software Engineer, Intern (Summer and Winter)","Stripe","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/stripe","","","","","","","","","","","",""
+"li-4358613800","linkedin","https://www.linkedin.com/jobs/view/4358613800","","Software Engineer I","Lensa","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/lensa","","","","","","","","","","","",""
+"li-4358911016","linkedin","https://www.linkedin.com/jobs/view/4358911016","","Software Engineer, Observability","Uber","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/uber-com","","","","","","","","","","","",""
+"li-4098165303","linkedin","https://www.linkedin.com/jobs/view/4098165303","","Software Engineer, Backend (All Levels)","Zip","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/theziphq","","","","","","","","","","","",""
+"li-4144967742","linkedin","https://www.linkedin.com/jobs/view/4144967742","","Software Engineer","Column","San Francisco, CA","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/column-bank","","","","","","","","","","","",""

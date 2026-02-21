@@ -7,7 +7,7 @@ from jobspy import scrape_jobs
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Scrape jobs from various sites')
-    parser.add_argument('--site_name', default="indeed", 
+    parser.add_argument('--site_name', default="linkedin", 
                         help='Comma-separated list of sites to scrape: indeed,linkedin,zip_recruiter,glassdoor,google,bayt,naukri')
     parser.add_argument('--search_term', default="software engineer", 
                         help='Search term for jobs')

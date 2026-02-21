@@ -1,27 +1,27 @@
-import { McpServer } from '@modelcontextprotocol/sdk/server/mcp.js';
-import { StdioServerTransport } from '@modelcontextprotocol/sdk/server/stdio.js';
-import express from 'express';
-import cors from 'cors';
-import logger from './logger.js';
-import SseManager from './sseManager.js';
+import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
+import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
+import express from "express";
+import cors from "cors";
+import logger from "./logger.js";
+import SseManager from "./sseManager.js";
 import {
   searchJobsPrompt,
   jobRecommendationsPrompt,
   resumeFeedbackPrompt,
-} from './prompts/index.js';
-import { searchJobsTool, searchJobsHandler } from './tools/index.js';
+} from "./prompts/index.js";
+import { searchJobsTool, searchJobsHandler } from "./tools/index.js";
 
 // Environment configuration
 const PORT = process.env.JOBSPY_PORT || 9423;
-const HOST = process.env.JOBSPY_HOST || '0.0.0.0';
-const ENABLE_SSE = !!(process.env.ENABLE_SSE | 0);
+const HOST = process.env.JOBSPY_HOST || "0.0.0.0";
+const ENABLE_SSE = true;
 
 // Create the MCP server
 const server = new McpServer({
-  name: 'JobSpy MCP Server',
-  version: '1.0.0',
+  name: "JobSpy MCP Server",
+  version: "1.0.0",
   description:
-    'A Model Context Protocol server that enables searching for jobs across various platforms',
+    "A Model Context Protocol server that enables searching for jobs across various platforms",
 });
 
 const sseManager = new SseManager(server);
@@ -37,7 +37,7 @@ let httpServer = null;
 
 // Start the server with configured transports
 async function runServer() {
-  logger.info('Starting JobSpy MCP server...');
+  logger.info("Starting JobSpy MCP server...");
 
   try {
     // Initialize and connect transports
@@ -57,15 +57,15 @@ async function runServer() {
         app.use(express.urlencoded({ extended: true }));
 
         // Health check endpoint
-        app.get('/health', (req, res) => {
-          res.status(200).json({ status: 'ok' });
+        app.get("/health", (req, res) => {
+          res.status(200).json({ status: "ok" });
         });
 
         // SSE endpoint for client connections
-        app.get('/sse', async (req, res) => {
-          const transport = sseManager.createTransport('/messages', res);
+        app.get("/sse", async (req, res) => {
+          const transport = sseManager.createTransport("/messages", res);
 
-          res.on('close', () => {
+          res.on("close", () => {
             sseManager.removeTransport(transport.sessionId);
             logger.info(`Client disconnected: ${transport.sessionId}`);
           });
@@ -75,17 +75,17 @@ async function runServer() {
         });
 
         // Message handling endpoint
-        app.post('/messages', async (req, res) => {
+        app.post("/messages", async (req, res) => {
           const transport = sseManager.getTransport(req);
 
           if (transport) {
             await transport.handlePostMessage(req, res, req.body);
           } else {
-            res.status(400).send('No transport found for sessionId');
+            res.status(400).send("No transport found for sessionId");
           }
         });
 
-        app.post('/api', async (req, res) => {
+        app.post("/api", async (req, res) => {
           const data = searchJobsHandler(req.body);
           res.json(data);
         });
@@ -95,14 +95,14 @@ async function runServer() {
           logger.info(`SSE server listening at http://${HOST}:${PORT}`);
         });
 
-        connectedTransports.push('SSE');
+        connectedTransports.push("SSE");
 
         logger.info(`SSE transport listening at http://${HOST}:${PORT}/sse`);
         logger.info(
-          `Send endpoint available at http://${HOST}:${PORT}/messages`,
+          `Send endpoint available at http://${HOST}:${PORT}/messages`
         );
       } catch (error) {
-        logger.error('Failed to connect SSE transport', {
+        logger.error("Failed to connect SSE transport", {
           error: error.message,
           stack: error.stack,
         });
@@ -112,11 +112,11 @@ async function runServer() {
       try {
         stdioTransport = new StdioServerTransport();
         await server.connect(stdioTransport);
-        connectedTransports.push('stdio');
+        connectedTransports.push("stdio");
 
-        logger.info('Stdio transport connected');
+        logger.info("Stdio transport connected");
       } catch (error) {
-        logger.error('Failed to connect stdio transport', {
+        logger.error("Failed to connect stdio transport", {
           error: error.message,
         });
       }
@@ -124,16 +124,16 @@ async function runServer() {
 
     // Ensure at least one transport is connected
     if (connectedTransports.length === 0) {
-      throw new Error('No transports connected. Check configuration.');
+      throw new Error("No transports connected. Check configuration.");
     }
 
     logger.info(
       `Server successfully connected with transports: ${connectedTransports.join(
-        ', ',
-      )}`,
+        ", "
+      )}`
     );
   } catch (error) {
-    logger.error('Server connection error', {
+    logger.error("Server connection error", {
       error: error.message,
       stack: error.stack,
     });
@@ -143,7 +143,7 @@ async function runServer() {
 
 // Handle graceful shutdown
 async function shutdown() {
-  logger.info('Shutting down JobSpy MCP server...');
+  logger.info("Shutting down JobSpy MCP server...");
 
   try {
     // Disconnect all transports gracefully
@@ -152,24 +152,24 @@ async function shutdown() {
     // Close HTTP server if it exists
     if (httpServer) {
       httpServer.close(() => {
-        logger.info('HTTP server closed');
+        logger.info("HTTP server closed");
       });
     }
 
-    logger.info('Server shutdown complete');
+    logger.info("Server shutdown complete");
   } catch (error) {
-    logger.error('Error during shutdown', { error: error.message });
+    logger.error("Error during shutdown", { error: error.message });
   } finally {
     // Give logger time to flush
     setTimeout(() => process.exit(0), 100);
   }
 }
 
-process.on('SIGINT', shutdown);
-process.on('SIGTERM', shutdown);
+process.on("SIGINT", shutdown);
+process.on("SIGTERM", shutdown);
 
 // Run the server
 runServer().catch((error) => {
-  logger.error('Unhandled error in server', { error: error.message });
+  logger.error("Unhandled error in server", { error: error.message });
   process.exit(1);
 });
